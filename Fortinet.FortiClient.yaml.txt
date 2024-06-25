@@ -1,0 +1,13 @@
+Id: Fortinet.FortiClient
+Publisher: Fortinet
+Name: FortiClient
+Version: 7.0.0
+License: Proprietary
+InstallerType: exe
+Installers:
+  - Arch: x64
+    Url: https://links.fortinet.com/forticlient/win64/fabricagent
+    Sha256: D230C64ADF9173E37C0AF5FD96B5FFF4C55A25AB4C96E5EBC1495DF051E9BF46
+    InstallerType: exe
+Commands:
+  - FortiClient
