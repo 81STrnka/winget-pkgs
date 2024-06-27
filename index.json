@@ -1,0 +1,9 @@
+{
+    "Sources": [
+      {
+        "Url": "https://github.com/81STrnka/winget-pkgs",
+        "Type": "git"
+      }
+    ]
+  }
+  
